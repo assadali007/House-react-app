@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.themeFontColor {
+    color: coral;
+}
+
+tr {
+    cursor: pointer;
+}
